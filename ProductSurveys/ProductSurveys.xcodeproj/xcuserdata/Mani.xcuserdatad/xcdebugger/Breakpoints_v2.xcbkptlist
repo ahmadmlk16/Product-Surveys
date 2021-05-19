@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F0313D4A-0F40-4AE4-8C63-B13B7C66A595"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5BC4899-CDD4-4F12-89D8-2741FB126D55"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductSurveys/UserData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "UserData"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B5BC4899-CDD4-4F12-89D8-2741FB126D55 - e1305d4c8057d9a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of ProductSurveys.UserData.surveyList : Swift.Array&lt;ProductSurveys.ProductSurvey&gt;"
+                  moduleName = "ProductSurveys"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Mohsin/Desktop/ProductSurveys/ProductSurveys/UserData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "B5BC4899-CDD4-4F12-89D8-2741FB126D55 - fb88fb3ef8723a81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductSurveys.UserData.surveyList.getter : Swift.Array&lt;ProductSurveys.ProductSurvey&gt;"
+                  moduleName = "ProductSurveys"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Mohsin/Desktop/ProductSurveys/ProductSurveys/UserData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "B5BC4899-CDD4-4F12-89D8-2741FB126D55 - 783a080450d0ceb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductSurveys.UserData.surveyList.setter : Swift.Array&lt;ProductSurveys.ProductSurvey&gt;"
+                  moduleName = "ProductSurveys"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Mohsin/Desktop/ProductSurveys/ProductSurveys/UserData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "130">
+               </Location>
+               <Location
+                  uuid = "B5BC4899-CDD4-4F12-89D8-2741FB126D55 - 2779a400dd00bd84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductSurveys.UserData.surveyList.modify : Swift.Array&lt;ProductSurveys.ProductSurvey&gt;"
+                  moduleName = "ProductSurveys"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Mohsin/Desktop/ProductSurveys/ProductSurveys/UserData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  uuid = "B5BC4899-CDD4-4F12-89D8-2741FB126D55 - 258eae3bb574a11f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductSurveys.UserData.surveyList.modify : Swift.Array&lt;ProductSurveys.ProductSurvey&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ProductSurveys"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Mohsin/Desktop/ProductSurveys/ProductSurveys/UserData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "B5BC4899-CDD4-4F12-89D8-2741FB126D55 - ed0f23ee8a0d0a22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductSurveys.UserData.$surveyList.getter : Combine.Published&lt;Swift.Array&lt;ProductSurveys.ProductSurvey&gt;&gt;.Publisher"
+                  moduleName = "ProductSurveys"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Mohsin/Desktop/ProductSurveys/ProductSurveys/UserData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "B5BC4899-CDD4-4F12-89D8-2741FB126D55 - 38b714b57076cdb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductSurveys.UserData.init() -&gt; ProductSurveys.UserData"
+                  moduleName = "ProductSurveys"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Mohsin/Desktop/ProductSurveys/ProductSurveys/UserData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE42A75E-34D9-498C-A9AC-3A8058EB5EE5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductSurveys/ProductDataFromApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "getProductDetailsFromApi(upc:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "416DF8BC-1EE3-40C8-B72F-DF3495CCEC59"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductSurveys/ProductDataFromApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getProductDetailsFromApi(upc:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22AC87EF-D57A-4069-964F-AEC0713B321C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductSurveys/ProductDataFromApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "203"
+            endingLineNumber = "203"
+            landmarkName = "getProductDetailsFromApi(upc:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CCF22E8-742D-4A41-8071-393BF5031644"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductSurveys/ProductDataFromApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "232"
+            endingLineNumber = "232"
+            landmarkName = "getProductDetailsFromApi(upc:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C596CD1-F76E-40AD-AB4E-12D0ECD1A368"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductSurveys/ProductDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61E1038B-99EA-4869-9F92-F5A230172E01"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductSurveys/ProductDataFromApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "257"
+            endingLineNumber = "257"
+            landmarkName = "getProductDetailsFromApi(upc:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1AC525D9-D24A-4952-BF83-CBF297CCE8E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductSurveys/ProductDataFromApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "getProductDetailsFromApi(upc:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75C0ACD3-8344-46A2-92C6-82CEE0B95B78"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductSurveys/ProductDataFromApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "getProductDetailsFromApi(upc:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7202273-D178-4A13-96E0-D28C9F529510"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductSurveys/ProductDataFromApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
+            landmarkName = "getProductDetailsFromApi(upc:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "101CB213-BA83-4FF3-8743-30CCF46FBCF1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductSurveys/TakeProductSurvey.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "267"
+            endingLineNumber = "267"
+            landmarkName = "saveSurvey()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
